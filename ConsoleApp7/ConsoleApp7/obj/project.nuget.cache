@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ELWg8TTvTNNi9QzoA18ts9LXgbORBcPzdNPxqW0p+sz9rPfXgJwfefVWGQj3ro9IfDTpcgSJkDZrEtSRQP4UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerom\\OneDrive\\Uni\\C#\\ConsoleApp7\\ConsoleApp7\\ConsoleApp7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\jerom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\jerom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\jerom\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
